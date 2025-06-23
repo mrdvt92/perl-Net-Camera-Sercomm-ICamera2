@@ -10,7 +10,7 @@ Net::Camera::Sercomm::ICamera2 - Perl Interface for Sercomm ICamera2 network cam
 
 # DESCRIPTION
 
-The Sercomm ICamera2 is network camera that can be accessed via a web interface.
+The Sercomm ICamera2 is a network camera that can be accessed via a web interface.
 This module provides methods to retrieve an image from the camera.
 
 # PROPERTIES
@@ -57,7 +57,7 @@ Returns a JPEG image.
 
 # SEE ALSO
 
-https://github.com/edent/Sercomm-API, [Net::Camera::Edimax::IC1500](https://metacpan.org/pod/Net::Camera::Edimax::IC1500)
+https://github.com/edent/Sercomm-API, [Net::Camera::Edimax::IC1500](https://metacpan.org/pod/Net%3A%3ACamera%3A%3AEdimax%3A%3AIC1500), [IPCamera::Reolink](https://metacpan.org/pod/IPCamera%3A%3AReolink)
 
 # AUTHOR
 
@@ -65,7 +65,9 @@ Michael R. Davis mrdvt at cpan
 
 # COPYRIGHT AND LICENSE
 
-Copyright (C) 2020 by Michael R. Davis
+MIT License
+
+Copyright (c) 2025 Michael R. Davis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -47,7 +47,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(-,root,root,-)
-%doc Changes META.json README
+%doc Changes META.json README.md LICENSE
 %{perl_vendorlib}/*
 %{_mandir}/man3/*
 %{_mandir}/man1/*

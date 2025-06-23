@@ -116,7 +116,7 @@ sub getSnapshot {
 
 =head1 SEE ALSO
 
-https://github.com/edent/Sercomm-API, L<Net::Camera::Edimax::IC1500>
+https://github.com/edent/Sercomm-API, L<Net::Camera::Edimax::IC1500>, L<IPCamera::Reolink>
 
 =head1 AUTHOR
 
@@ -126,7 +126,7 @@ Michael R. Davis mrdvt at cpan
 
 MIT License
 
-Copyright (c) 2020 Michael R. Davis
+Copyright (c) 2025 Michael R. Davis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
